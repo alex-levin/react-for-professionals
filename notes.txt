@@ -1,0 +1,6 @@
+mkdir 01-projects-in-react
+cd 01-projects-in-react
+npm install create-react-app -g
+create-react-app app-test
+
+
